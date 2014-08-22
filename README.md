@@ -1,4 +1,4 @@
-CallPrivateFunction
-===================
+uuid7 
+=====
 
-访问framework中的函数
+a sample project for getting uuid for ios7 with private framework
